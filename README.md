@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ApurvaTejani</h1>
+<h1 align="center">Hi 👋, I'm Apurva Tejani</h1>
 <h3 align="center">Software Engineer Analyst who deals with production L3 issues</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 - 🔭 I’m currently working on **Shell Scripting DevOps DBMS**
@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Automation Site reliability engineers**
 
-<<<<<<< HEAD
+
 - 🤝 I’m looking for help with **more depth into automation and DBMS core concepts DevOps mindset**
 =======
-- 🤝 I’m looking for help with **more depth into automation and DBMS core conecpts Devops mindset**
->>>>>>> be06d6f (initial Commit)
+- 🤝 I’m looking for help with **more depth into automation and DBMS core concepts DevOps mindset**
+
 
 - 📄 Know about my experiences [3 Years into Application level 3 support](3 Years into Application level 3 support)
 
@@ -34,4 +34,3 @@
 <<<<<<< HEAD
 =======
 
->>>>>>> be06d6f (initial Commit)
