@@ -7,7 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Automation Site reliability engineers**
 
+<<<<<<< HEAD
 - 🤝 I’m looking for help with **more depth into automation and DBMS core concepts DevOps mindset**
+=======
+- 🤝 I’m looking for help with **more depth into automation and DBMS core conecpts Devops mindset**
+>>>>>>> be06d6f (initial Commit)
 
 - 📄 Know about my experiences [3 Years into Application level 3 support](3 Years into Application level 3 support)
 
@@ -27,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurvatejani&show_icons=true&locale=en" alt="apurvatejani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apurvatejani&" alt="apurvatejani" /></p>
+<<<<<<< HEAD
+=======
+
+>>>>>>> be06d6f (initial Commit)
